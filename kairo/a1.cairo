@@ -1,5 +1,5 @@
 #[contract]
-mod kairo {
+mod VeriKontrol {
 
 use starknet::get_caller_address;
 use starknet::ContractAddress;
